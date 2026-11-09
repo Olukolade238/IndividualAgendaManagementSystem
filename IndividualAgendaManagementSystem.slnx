@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="individualagendamanagementsystem.client/individualagendamanagementsystem.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="IndividualAgendaManagementSystem.Server/IndividualAgendaManagementSystem.Server.csproj" />
+</Solution>
